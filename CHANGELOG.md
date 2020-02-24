@@ -1,5 +1,15 @@
 # testing-changesets
 
+## 1.2.0
+
+### Minor Changes
+
+- 5b63c5c: A minor bump to the package as an example
+
+### Patch Changes
+
+- 421dbe5: Testing out the new version of changesets
+
 ## 1.1.0
 
 ### Minor Changes
