@@ -1,5 +1,5 @@
 {
-  "name": "testing-changesets",
+  "name": "@chasemccoy/testing-changesets",
   "version": "1.1.0",
   "main": "index.js",
   "repository": "git@github.com:chasemccoy/testing-changesets.git",
