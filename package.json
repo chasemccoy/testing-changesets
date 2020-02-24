@@ -6,6 +6,6 @@
   "author": "Chase McCoy <chasem000@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@changesets/cli": "^2.0.3"
+    "@changesets/cli": "^2.5.2"
   }
 }
