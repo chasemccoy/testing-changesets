@@ -5,6 +5,9 @@
   "repository": "git@github.com:chasemccoy/testing-changesets.git",
   "author": "Chase McCoy <chasem000@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "release": "yarn changeset publish"
+  },
   "dependencies": {
     "@changesets/cli": "^2.5.2"
   }
